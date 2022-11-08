@@ -1,2 +1,2 @@
-# shubho5das.github.io/
+# shubho5das.github.io
 https://shubho5das.github.io/
