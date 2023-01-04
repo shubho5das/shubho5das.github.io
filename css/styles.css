@@ -277,6 +277,10 @@ hr{
   .session-text{
     text-align: center;
   }
+  
+  .my-sessions{
+    padding: 0 3%;
+  }  
 }
 
 @media(max-width: 992px){
@@ -287,6 +291,10 @@ hr{
   .home-description{
     font-size: 1rem;
   }
+  
+  .my-sessions{
+    padding: 0 5%;
+  }  
 }
 
 /* Skills Section */
